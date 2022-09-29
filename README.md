@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aleksandra Vitkovac===========================================================================================================================================* 🌍  I'm based in Belgrade* ✉️  You can contact me at [aleksandra.vitkovac97@gmail.com](mailto:aleksandra.vitkovac97@gmail.com)* 🧠  I'm learning Data science* 🤝  I'm open to collaborating on interesting projects* ⚡  ...don't tell anyone
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aleksandra Vitkovac
+===========================================================================================================================================
+
+* 🌍  I'm based in Belgrade
+* ✉️  You can contact me at [aleksandra.vitkovac97@gmail.com](mailto:aleksandra.vitkovac97@gmail.com)
+* 🧠  I'm learning Data science
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  ...don't tell anyone
 
 ### Skills
 
